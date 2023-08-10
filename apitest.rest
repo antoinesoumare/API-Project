@@ -1,0 +1,2 @@
+###
+GET https://v2.jokeapi.dev/joke/Programming?type=single&amount=10 HTTP/1.1

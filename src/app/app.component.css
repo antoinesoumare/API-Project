@@ -1,0 +1,62 @@
+colours {
+    color: #6baa97;
+    color: #5e9081;
+    color: #040001;
+    color: #f0f8f8;
+    color: #f1f1f1;
+
+    color: #1c1c1c;
+    color: #daddd8;
+    color: #ecebe4;
+    color: #fafaff;
+    color: #f1f1f1;
+
+    color: #F88AF7;
+    color: #36FDA6;
+    color: #3574ab;
+    color: #373438;
+    color: #1b1b1e;
+}
+
+
+h1 {
+    font-family: "bebas-neue-semirounded", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #f88af7;
+    letter-spacing: 1px;
+    font-size: 70px;
+}
+
+
+.subheading {
+    margin-left: 2%;
+    color: #ecebe4;
+    font-family: "sofia-pro", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    letter-spacing: 1px;margin-bottom: 2%;
+}
+
+
+button {
+    padding: 10px 20px;
+    margin-left: 2.1%;
+    font-family: "sofia-pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border-radius: 20px;
+    border: solid 1px #36FDA6;
+    background-color: #36FDA6;
+    color: #373438;
+    margin-bottom: 4%;
+    font-size: smaller;
+
+}
+
+button:hover {
+    background-color: transparent;
+    color: #36FDA6;
+}
